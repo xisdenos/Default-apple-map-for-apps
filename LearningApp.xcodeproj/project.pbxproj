@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		0695FDA72CDC03AB00382E71 /* Exceptions for "LearningApp" folder in "LearningApp" target */ = {
+		06637E042CE296460008B8B0 /* Exceptions for "LearningApp" folder in "LearningApp" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -24,7 +24,7 @@
 		0695FD972CDC03A900382E71 /* LearningApp */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				0695FDA72CDC03AB00382E71 /* Exceptions for "LearningApp" folder in "LearningApp" target */,
+				06637E042CE296460008B8B0 /* Exceptions for "LearningApp" folder in "LearningApp" target */,
 			);
 			path = LearningApp;
 			sourceTree = "<group>";
@@ -147,6 +147,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LearningApp/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Location needed";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location needed";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -173,6 +175,8 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = LearningApp/Info.plist;
+				INFOPLIST_KEY_NSLocationAlwaysUsageDescription = "Location needed";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location needed";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
